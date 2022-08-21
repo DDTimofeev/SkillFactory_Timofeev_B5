@@ -1,4 +1,4 @@
-def greet():
+#def greet():
     print("-------------------")
     print("  Приветсвуем вас  ")
     print("      в игре       ")
