@@ -10,6 +10,7 @@ def greet():
 
 
 
+
 def show():
     print()
     print("    | 0 | 1 | 2 | ")
